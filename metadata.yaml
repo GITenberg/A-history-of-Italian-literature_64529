@@ -1,5 +1,8 @@
 _repo: A-history-of-Italian-literature_64529
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64529-h/images/cover.jpg
 creator:
   author:
     agent_name: Garnett, Richard
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3305
     wikipedia: http://en.wikipedia.org/wiki/Richard_Garnett_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64529#A-history-of-Italian-literature
 gutenberg_issued: '2021-02-12'
 gutenberg_type: Text
 identifiers:
